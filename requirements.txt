@@ -1,0 +1,7 @@
+numpy
+pandas
+ffmpeg-python
+streamlit
+requests
+flask
+nodejs-bin[cmd]
